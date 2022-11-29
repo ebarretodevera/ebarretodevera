@@ -29,6 +29,4 @@ I'm also an **open-source enthusiast and maintainer**. i learned a lot from the 
 
 [![](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UChjGK0iyLwmYF9oHEnRubJw)
 
-[![](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](ebarretodevera@gmail.com)
-
-https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
+[![](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ebarretodevera@gmail.com)
